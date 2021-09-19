@@ -97,8 +97,8 @@ cat /var/snap/shadowsocks-libev/common/server-config.json
 
   (In a short, all above settings should be consistent to the file of '/var/snap/shadowsocks-libev/common/server-config.json' on your ecs server.) 
 * 'Preferences'->'Advanced' and 'http'
-  ![](ss-client-advanced-setting.png)
-  ![](ss-client-http-setting.png)
+  ![](https://github.com/free-adam/set-up-ss-server/blob/main/ss-client-advanced-setting.png)
+  ![](https://github.com/free-adam/set-up-ss-server/blob/main/ss-client-http-setting.png)
 
 ## 7. How to debug?
 
