@@ -96,9 +96,9 @@ cat /var/snap/shadowsocks-libev/common/server-config.json
   + Password: your password of ecs  
 
   (In a short, all above settings should be consistent to the file of '/var/snap/shadowsocks-libev/common/server-config.json' on your ecs server.) 
-* 'Preferences'->'Advanced' and 'http'
-  ![](https://github.com/free-adam/set-up-ss-server/blob/main/ss-client-advanced-setting.png, =300x200)
-  ![](https://github.com/free-adam/set-up-ss-server/blob/main/ss-client-http-setting.png, =300x200)
+* 'Preferences'->'Advanced' and 'http'  
+  <img src="https://github.com/free-adam/set-up-ss-server/blob/main/ss-client-advanced-setting.png" widht="300">  
+  <img src="https://github.com/free-adam/set-up-ss-server/blob/main/ss-client-http-setting.png" widht="300">  
 
 ## 7. How to debug?
 
