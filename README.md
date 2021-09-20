@@ -117,6 +117,6 @@ vim ~/Library/Logs/ss-local.log
   ```
   Above means everything is fine. 
 
-## 8. Mystery
+## 8. Trouble shooting
 
-* It works well for Safari but Chrome. I already unpinned all related plugins like "Proxy SwitchyOmeg" or "unblock boundary". I will try to restart Chrome or even reboot Mac. 
+* It works well for Safari but Chrome. I already unpinned all related plugins like "Proxy SwitchyOmeg". Finnally, I find "unblock boundary" is on, then I disable it and now it works well for Chrome also.
